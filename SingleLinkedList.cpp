@@ -1,6 +1,5 @@
 /*Zachary Firth
-Data Structures & Algorithm Analysis COP3530
-7/245/22
+7/24/22
 Program: SingleLinkedList
 Purpose: To create a single linked list of n nodes that are entered by the user and to delete and insert
 a node in the middle of the single linked list which the user inputs for each process.

@@ -1,5 +1,4 @@
 /*Zachary Firth
-Data Structures & Algorithm Analysis COP3530
 7/24/22
 Program: DoubleLinkedList
 Purpose: To create a double linked list of n nodes that are entered by the user, to delete a node at the end of the
